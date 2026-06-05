@@ -1,4 +1,4 @@
-# craftlabs-interview-practice
+# practice
 
 ## Interview Practice
 
